@@ -1,6 +1,3 @@
-# ForgeScript Bot Template
-A bot template for ForgeScript.
-
 <h3><b>Moderator (Discord Bot)</b></h3>
 <p>Made in python using the pyserial and discord modules, this is a simple functional bot that allows you to work/control an Arduino board through a locally run discord bot on your PC. The Arduino board is connected to a lamp or another device, and you can control it using commands through the bot. It's a smart project that can be crafted simply.</p><br/>
 
