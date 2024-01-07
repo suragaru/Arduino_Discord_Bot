@@ -3,7 +3,7 @@
 
 
 <p><b>Procedure </b><strong>Step 1:</strong></p>
-<p>Program your arduino board after wiring your circuit. Use the <code>program.ino</code> file and modify the script according to your preferences.</p>
+<p>Program your Arduino board after wiring your circuit. Use the <code>program.ino</code> file and modify the script according to your preferences.</p>
 
 <p><strong>Step 2:</strong></p>
 <p>Test it with the <code>pyserial.py</code> script to diagnose any errors in your program.</p>
