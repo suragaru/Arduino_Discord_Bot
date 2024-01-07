@@ -2,7 +2,7 @@
 A python bot using the pyserial and discord modules; this is a simple functional bot that allows you to work/control an arduino board through a locally run discord bot on your PC. The arduino board is connected to a lamp or another device, and you can control it using commands through the bot. It's a smart project that can be crafted simply.<br/>
 
 Procedure <br/>
-• step 1: Firstly, install the necessary python packages by running the following command: <code>pip install discord pyserial</code>
+• step 1: Firstly, install the necessary python packages by running the following command: <code>pip install discord pyserial</code>.
 Next, program your arduino board after wiring your circuit. Utilize the <code>program.ino</code> file and make script modifications according to your preferences.</p>
 Note: the latest python version may not work; am using 3.9.0 version for this project
 
