@@ -10,6 +10,5 @@ Note: the latest python version may not work; am using 3.9.0 version for this pr
 
 • Step 3: Create your discord bot on <a href="https://discord.com/developers/applications" target="_blank">https://discord.com/developers/applications</a>. Add your bot token in the <code>app.py</code> script and test it.
 
-• Step 4: After the bot works, modify the script. You can also upgrade the bot if you want to go crazy with it.
-
+• Step 4: After the bot works, modify the script if you want to add more functions to the bot.
 
