@@ -4,4 +4,4 @@
   to a lamp or another device, and you can control it using commands through the bot. It's a smart project 
   that can be crafted simply.</p>
 
-<p>made in 1/6/24</p>
+<p>project made :01-06-24</p>
