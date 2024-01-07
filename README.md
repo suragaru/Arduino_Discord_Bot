@@ -12,6 +12,6 @@
 <p>Create your Discord bot on <a href="https://discord.com/developers/applications" target="_blank">https://discord.com/developers/applications</a>. Add your bot token in the <code>app.py</code> script and test it.</p>
 
 <p><strong>Step 4:</strong></p>
-<p>After the bot works, modify the script. You can also upgrade the bot if you want to go beyond the basics.</p>
+<p>After the bot works, modify the script. You can also upgrade the bot if you want to go crazy with it.</p>
 
 
