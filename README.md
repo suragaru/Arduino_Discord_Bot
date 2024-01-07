@@ -3,7 +3,7 @@ A python bot using the pyserial and discord modules; this is a simple functional
 
 Procedure <br/>
 • step 1: Firstly, install the necessary python packages by running the following command: <code>pip install discord pyserial</code>.
-Next, program your arduino board after wiring your circuit. Utilize the <code>program.ino</code> file and make script modifications according to your preferences.</p>
+Next, program your arduino board after wiring your circuit. Use the <code>program.ino</code> file and make script modifications according to your preferences.</p>
 Note: the latest python version may not work; am using 3.9.0 version for this project
 
 • Step 2: Test it with the <code>pyserial.py</code> script to diagnose any errors in your program
