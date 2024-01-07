@@ -5,7 +5,7 @@
 <p><b>• Procedure </b><strong>Step 1:</strong></p>
 <p>Firstly, install the necessary Python packages by running the following command:</p>
 <pre><code>pip install discord pyserial</code></pre>
-<p>Note: The latest Python version may not work; I recommend using version 3.9.0+ for this project.</p>
+<p>Note: The latest Python version may not work; Am using 3.9.0 version for this project.</p>
 <p>Next, program your Arduino board after wiring your circuit. Utilize the <code>program.ino</code> file and make script modifications according to your preferences.</p>
 
 <p><strong>• Step 2:</strong></p>
