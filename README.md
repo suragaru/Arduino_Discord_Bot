@@ -4,9 +4,9 @@
 
 
 <p><b>• Procedure </b><strong>step 1:</strong></p>
-<p>Firstly, install the necessary python packages by running the following command: <code>pip install discord pyserial</code></p>
+<p>Firstly, install the necessary python packages by running the following command: <code>pip install discord pyserial</code>
+Next, program your arduino board after wiring your circuit. Utilize the <code>program.ino</code> file and make script modifications according to your preferences.</p>
 <p>Note: the latest python version may not work; am using 3.9.0 version for this project.</p>
-<p>Next, program your arduino board after wiring your circuit. Utilize the <code>program.ino</code> file and make script modifications according to your preferences.</p>
 
 <p><strong>• Step 2:</strong></p>
 <p>Test it with the <code>pyserial.py</code> script to diagnose any errors in your program.</p>
