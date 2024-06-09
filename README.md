@@ -1,4 +1,4 @@
-# ARDUINO DISCORD BOT
+# Arduino Discord Bot
 A python bot using the pyserial and discord modules; this is a simple functional bot that allows you to work/control an arduino board through a locally run discord bot on your PC. The arduino board is connected to a lamp or another device, and you can control it using commands through the bot.<br/>
 
 Procedure : <br/>
