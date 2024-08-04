@@ -71,10 +71,10 @@ Replace `"DISCORD_TOKEN_HERE"` with your bot's token in the `client.run("DISCORD
 `python bot.py`
 - After the bot works, modify the script if you want to add more functions to the bot.
 
-## Serial Communication
+### Serial Communication
 The bot sends commands to the microcontroller via the serial port specified in the code (COM3 in this case). Make sure to update the serial port according to your system's configuration.
 
-## Contributing
+### Contributing
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
