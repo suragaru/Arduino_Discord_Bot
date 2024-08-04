@@ -58,7 +58,7 @@ Whether you use this project, have learned something from it, or just like it, p
 
 1. Clone the Repository
    ```bash
-   git clone https://github.com/your-username/discord-relay-bot.git
+   git clone https://github.com/suragaru/Arduino_Discord_Bot.git
    cd discord-relay-bot
 
 2. Install dependencies:
