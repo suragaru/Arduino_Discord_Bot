@@ -60,12 +60,12 @@ Whether you use this project, have learned something from it, or just like it, p
    ```bash
    git clone https://github.com/suragaru/Arduino_Discord_Bot.git
    cd discord-relay-bot
-   ```
+
 
 2. Install Dependencies
    ```bash
    pip install discord.py pyserial`
-   ```
+
 
 4. Set Up the Bot
 Replace `"DISCORD_TOKEN_HERE"` with your bot's token in the `client.run("DISCORD_TOKEN_HERE")` line.
