@@ -2,23 +2,23 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/suragaru/shizuka_app/network/members">
-    <img src="https://img.shields.io/github/forks/suragaru/shizuka_app" alt="forks" />
+  <a href="https://github.com/suragaru/Arduino_Discord_Bot/network/members">
+    <img src="https://img.shields.io/github/forks/suragaru/Arduino_Discord_Bot" alt="forks" />
   </a>
-  <a href="https://github.com/suragaru/shizuka_app/stargazers">
-    <img src="https://img.shields.io/github/stars/suragaru/shizuka_app" alt="stars" />
+  <a href="https://github.com/suragaru/Arduino_Discord_Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/suragaru/Arduino_Discord_Bot" alt="stars" />
   </a>
-  <a href="https://github.com/suragaru/shizuka_app/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/suragaru/shizuka_app" alt="contributors" />
+  <a href="https://github.com/suragaru/Arduino_Discord_Bot/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/suragaru/Arduino_Discord_Bot" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/suragaru/shizuka_app" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/suragaru/Arduino_Discord_Bot" alt="last update" />
   </a>
-  <a href="https://github.com/suragaru/shizuka_app/issues/">
-    <img src="https://img.shields.io/github/issues/suragaru/shizuka_app" alt="open issues" />
+  <a href="https://github.com/suragaru/Arduino_Discord_Bot/issues/">
+    <img src="https://img.shields.io/github/issues/suragaru/Arduino_Discord_Bot" alt="open issues" />
   </a>  
-  <a href="https://github.com/suragaru/shizuka_app/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/suragaru/shizuka_app.svg" alt="open issues" />
+  <a href="https://github.com/suragaru/Arduino_Discord_Bot/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/suragaru/Arduino_Discord_Bot.svg" alt="open issues" />
   </a>  
 </p>
 
@@ -80,7 +80,7 @@ Feel free to fork this project and submit pull requests. For major changes, plea
 ---
 
 ## License
->You can check out the full license [here](https://github.com/suragaru/shizuka_app/blob/main/LICENSE.md)
+>You can check out the full license [here](https://github.com/suragaru/Arduino_Discord_Bot/blob/main/LICENSE.md)
 
 This project is licensed under the terms of the **MIT** license.
 
