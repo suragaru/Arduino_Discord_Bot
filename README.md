@@ -64,7 +64,7 @@ Whether you use this project, have learned something from it, or just like it, p
 
 2. Install Dependencies
    ```bash
-   pip install discord.py pyserial`
+   pip install discord.py pyserial
    ```
 
 4. Set Up the Bot
