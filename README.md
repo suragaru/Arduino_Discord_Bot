@@ -1,4 +1,4 @@
-# Discord Bot Project
+# Discord Relay Control Bot
 
 <!-- Badges -->
 <p>
