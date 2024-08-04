@@ -62,7 +62,7 @@ Whether you use this project, have learned something from it, or just like it, p
    cd discord-relay-bot
    ```
 
-2. Install dependencies:
+2. Install Dependencies
    ```bash
    pip install discord.py pyserial`
    ```
