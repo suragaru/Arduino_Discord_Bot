@@ -22,7 +22,7 @@
   </a>  
 </p>
 
-This is a Discord bot built using `discord.py` and `pyserial`
+This Discord bot allows users to control relays via serial communication with a microcontroller. The bot is built using the [discord.py](https://github.com/Rapptz/discord.py) library and communicates with the microcontroller using the `pyserial` library.
 
 ---
 
@@ -36,31 +36,46 @@ Whether you use this project, have learned something from it, or just like it, p
 
 ---
 
-## User Feature
+## Features
+- **Relay Control**: Turn on/off relays via Discord commands.
+- **Help Command**: Provides a list of available commands and their functions.
+
+![image](https://github.com/user-attachments/assets/00673070-8c9a-4131-8938-64826f00552f)
+
 
 ## :toolbox: Setup
 
-### Prerequisites
+## Requirements
 
 - Python 3.8+
-- `pyserial`
-- `discord`
-- `DISCORD_TOKEN`
+- [discord.py](https://pypi.org/project/discord.py/) library
+- [pyserial](https://pypi.org/project/pyserial/) library
+- Microcontroller with relays connected to the serial port
   
 ### Wiring
 
 ### Installation
 
-1. Download the repository
-
-2. Install required packages:
+1. Clone the Repository
    ```bash
-   pip install pyserial, discord.py
-   ```
-3. Create a discord bot on <a href="https://discord.com/developers/applications" target="_blank">https://discord.com/developers/applications</a>. Add your bot token in the <code>bot.py</code>
+   git clone https://github.com/your-username/discord-relay-bot.git
+   cd discord-relay-bot
 
-4. Once the environment variable and wiring is done, you can run `bot.py` to start the application.You will then invite the bot to your server and test it.
+2. Install dependencies:
+`pip install discord.py pyserial`
+
+3. Set Up the Bot
+Replace `"DISCORD_TOKEN_HERE"` with your bot's token in the `client.run("DISCORD_TOKEN_HERE")` line.
+
+5. Run the bot
+`python bot.py`
 - After the bot works, modify the script if you want to add more functions to the bot.
+
+## Serial Communication
+The bot sends commands to the microcontroller via the serial port specified in the code (COM3 in this case). Make sure to update the serial port according to your system's configuration.
+
+## Contributing
+Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
